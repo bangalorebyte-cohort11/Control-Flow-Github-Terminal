@@ -10,6 +10,7 @@ For a review of basic github commands, refer to : https://services.github.com/on
 
 If you have not completed Coding Bat, please complete every exercise there. If completed, try:
 
+``` python 
 Question:
 Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
 between 2000 and 3200 (both included).
@@ -43,6 +44,7 @@ Then, the output should be:
 
 Hints:
 Consider use dict()
+```
 
 
 
