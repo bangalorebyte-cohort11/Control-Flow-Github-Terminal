@@ -6,6 +6,8 @@ To review/practice linux terminal commands, refer to https://learnpythonthehardw
 
 For a review of basic github commands, refer to : https://services.github.com/on-demand/downloads/github-git-cheat-sheet/
 
+Read about list comprehensions here: http://blog.cdleary.com/2010/04/efficiency-of-list-comprehensions/
+
 **Excercises** 
 
 If you have not completed Coding Bat, please complete every exercise there. If completed, try:
